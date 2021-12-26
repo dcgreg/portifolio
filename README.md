@@ -1,2 +1,2 @@
 # portifolio
-criando meu portifolio(html,css,bootstrap
+criando meu portifolio(html,css,bootstrap)
